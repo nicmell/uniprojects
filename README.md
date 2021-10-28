@@ -6,13 +6,13 @@
 
 ## Projects:
 
-* **Arch1Lab:** : A circuit version of a [2048](https://play2048.co/ )-like game to be executed with [Logisim](http://www.cburch.com/logisim/).
+* **Arch1Lab:** : Circuit version of a [2048](https://play2048.co/ )-like game to be executed with [Logisim](http://www.cburch.com/logisim/).
 
 
-* **Arch2lab:** : A multiprecision calculator written in MIPS assembly language according to the algorithms written in ["The Art Of Computer Programming”](https://cs.stanford.edu/~knuth/taocp.html) by Donald E. Knuth
+* **Arch2lab:** : Multiprecision calculator written in MIPS assembly language according to the algorithms written in ["The Art Of Computer Programming”](https://cs.stanford.edu/~knuth/taocp.html) by Donald E. Knuth
 
 
-* **AiLab**: A prolog engine for a very clever hoover, using an heuristic A* search algorithm, empowered by the Prof. [Mario Ornaghi](https://www.researchgate.net/profile/Mario_Ornaghi )'s path findings library (with many thanks for sharing it). 
+* **AiLab**: Prolog engine for a very clever hoover, using an heuristic A* search algorithm, empowered by the Prof. [Mario Ornaghi](https://www.researchgate.net/profile/Mario_Ornaghi )'s path findings library (with many thanks for sharing it). 
 
 ---
 
